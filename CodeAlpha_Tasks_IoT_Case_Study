@@ -1,1 +1,72 @@
-
+Mini Project – IoT Case Study 
+ 
+Topic: IoT Security Challenges 
+Name: Aditya Sunil Wagh
+Subject: Internet of Things 
+Academic Year: 2025–26 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+ 
+The Internet of Things (IoT) has become an integral part of modern 
+technology, connecting billions of devices such as sensors, smart 
+appliances, industrial machines, and healthcare equipment. While 
+IoT offers numerous benefits including automation, efficiency, and 
+real-time monitoring, it also introduces significant security 
+challenges. Due to limited computing power, poor security design, 
+and massive scalability, IoT systems are highly vulnerable to cyber 
+threats. This case study discusses major IoT security challenges, real
+world incidents, and possible solutions.  
+  
+Overview of IoT Security 
+IoT security refers to the protection of connected devices and 
+networks from cyber attacks. Unlike traditional IT systems, IoT 
+devices often lack strong authentication mechanisms, encryption, and 
+regular software updates. This makes them easy targets for attackers. 
+Ensuring IoT security requires protection at device, network, and 
+application levels. 
+ 
+ 
+Major IoT Security Challenges 
+ 
+One of the main challenges in IoT security is weak authentication and 
+authorization. Many devices use default or hard-coded passwords. 
+Another challenge is insecure communication, where data is 
+transmitted without encryption. Lack of regular firmware updates and 
+poor device management further increase vulnerabilities. Scalability 
+of IoT networks also makes monitoring difficult.  
+Real-World IoT Security Attacks 
+A famous example of an IoT security breach is the Mirai botnet 
+attack, where infected IoT devices such as cameras and routers were 
+used to launch massive Distributed Denial of Service (DDoS) attacks. 
+Another example includes smart home devices being hacked due to 
+weak passwords, compromising user privacy and safety. 
+ 
+ 
+Impact of IoT Security Issues 
+IoT security breaches can result in data theft, privacy invasion, 
+financial losses, and even physical harm. In healthcare, compromised 
+IoT devices can endanger patient lives. In smart homes and smart 
+cities, security failures can lead to unauthorized access and loss of 
+trust among users. 
+  
+Solutions and Best Practices 
+To address IoT security challenges, manufacturers should implement 
+strong authentication, encryption, and secure boot mechanisms. 
+Regular firmware updates and patch management are essential. 
+Network segmentation, intrusion detection systems, and user 
+awareness also play a critical role in enhancing security. 
+ 
+ 
+Future Scope and Conclusion 
+The future of IoT security lies in AI-based threat detection, 
+blockchain for secure data sharing, and standardized security 
+frameworks. Governments and organizations are also developing IoT 
+security regulations. In conclusion, addressing IoT security 
+challenges is crucial for safe and sustainable adoption of IoT 
+technologies. 
+ 
